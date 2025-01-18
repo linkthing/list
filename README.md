@@ -1,2 +1,2 @@
 # linkthing-list
-markdown list of all linked sites
+markdown list of useful link aggregators & websites
