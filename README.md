@@ -1,2 +1,2 @@
 # linkthing-list
-markdown list of useful link aggregators & websites
+markdown lists with links to useful websites, published on https://linkthing.org
